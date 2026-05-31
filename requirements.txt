@@ -1,0 +1,30 @@
+# ─────────────────────────────────────────────
+# E-Commerce Sales Dashboard — Requirements
+# Python 3.11+
+# Install: pip3 install -r requirements.txt
+# ─────────────────────────────────────────────
+
+# Core data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Machine learning (RFM scoring)
+scikit-learn>=1.2.0
+
+# Database connection
+sqlalchemy>=2.0.0
+
+# Notebook environment
+jupyter>=1.0.0
+jupyterlab>=4.0.0
+
+# Excel / CSV export
+openpyxl>=3.1.0
+
+# Utilities
+python-dotenv>=1.0.0
