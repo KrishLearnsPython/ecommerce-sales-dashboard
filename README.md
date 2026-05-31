@@ -8,7 +8,7 @@ Built as part of a structured Data Analytics portfolio. Every finding is grounde
 
 ## Live Dashboard
 
-[View the interactive Looker Studio Dashboard →](YOUR_LOOKER_STUDIO_LINK_HERE)
+[View the interactive Looker Studio Dashboard →](https://datastudio.google.com/reporting/f1f08f74-8049-4b3f-bcdb-ab73ca46293d)
 
 ---
 
