@@ -84,7 +84,7 @@ ecommerce-sales-dashboard/
 ## How to Run
 
 ```bash
-git clone https://github.com/YOURUSERNAME/ecommerce-sales-dashboard
+git clone https://github.com/krishlearnspython/ecommerce-sales-dashboard
 cd ecommerce-sales-dashboard
 pip install -r requirements.txt
 jupyter lab
